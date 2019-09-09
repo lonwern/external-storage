@@ -13,7 +13,7 @@
 # limitations under the License.
 
 ifeq ($(REGISTRY),)
-        REGISTRY = quay.io/external_storage/
+        REGISTRY = lonwern/
 endif
 ifeq ($(VERSION),)
         VERSION = latest
